@@ -1,0 +1,19 @@
+{
+  "name": "apiserver",
+  "version": "1.0.0",
+  "description": "Api server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CremonGiovanni/APIserver.git"
+  },
+  "author": "Cremon Giovanni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CremonGiovanni/APIserver/issues"
+  },
+  "homepage": "https://github.com/CremonGiovanni/APIserver#readme"
+}
